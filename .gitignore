@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+Data/
+Data 2/
+MainCSV/
+Raw Data/
 __pycache__/
 *.py[cod]
 *$py.class
